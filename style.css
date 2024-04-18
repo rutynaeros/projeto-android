@@ -159,7 +159,7 @@ div#video > iframe {
 aside {
     background-color: rgb(154, 255, 184);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.418);
     line-height: 1.5em;
